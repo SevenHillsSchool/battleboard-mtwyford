@@ -1,9 +1,6 @@
 # battleboard
 Exploration of simple Arrays in Java
 
-# battleboard
-Exploration of simple Arrays in Java
-
 As a continuation of the units in Java - beyond simple primitive data types and String manipulation, it's time to think a little deeper about how we can manipulate, access, store data in Java.
 
 Think of the example of a teacher with a class of 20 students, creating a simple roster.
